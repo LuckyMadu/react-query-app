@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  height: 100vh;
+  color: #fff;
+  display: flex;
+}
+
+.left {
+  flex: 1;
+  border-right: 3px solid #fff;
+}
+.right {
+  flex: 2;
+}
+
+.users ul li {
+  list-style-type: none;
+}
